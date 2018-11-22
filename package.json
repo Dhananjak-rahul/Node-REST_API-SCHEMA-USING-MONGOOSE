@@ -1,0 +1,31 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "it is the first rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhananjak-rahul/nodejsRestAPI.git"
+  },
+  "keywords": [
+    "Node",
+    "Rest",
+    "API"
+  ],
+  "author": "Dhananjay Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhananjak-rahul/nodejsRestAPI/issues"
+  },
+  "homepage": "https://github.com/Dhananjak-rahul/nodejsRestAPI#readme",
+  "dependencies": {
+    "@types/express": "^4.16.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.13",
+    "nodemon": "^1.18.6"
+  }
+}
